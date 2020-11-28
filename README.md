@@ -1,5 +1,5 @@
 # tracer V.1
-![Screenshot 2020-10-13 at 3 35 32 PM](https://user-images.githubusercontent.com/67981768/95923305-11b98f00-0d6a-11eb-8f39-abe7ae03827e.png)
+
 
 
 # What does it do 
