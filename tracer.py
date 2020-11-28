@@ -12,7 +12,7 @@ print('''
   ░        ░░   ░   ░   ▒   ░           ░     ░░   ░ 
             ░           ░  ░░ ░         ░  ░   ░  
              
-               Created By Skitz#5674 ''')
+               Created By Skitz ''')
 
 
 
